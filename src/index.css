@@ -115,3 +115,6 @@ p {
     font-size: 1em;
   }
 }
+body, p {
+  font-family: 'Press Start 2P', cursive;
+}
